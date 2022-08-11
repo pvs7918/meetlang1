@@ -6,8 +6,6 @@ a = -9 b = -3 -> max = -3
 Выполнил Сергиенко П.В. 11.08.2022г.
 */
 
-int res;
-
 Console.WriteLine("Введите первое число: ");
 int num1 = int.Parse(Console.ReadLine()!);
 
